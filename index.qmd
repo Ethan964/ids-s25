@@ -137,6 +137,7 @@ Markdown.
 + Li, Shiyi
 + Lin, Selena
 + Long, Ethan Kenneth
+    - Learn about Git commands
 + Nasejje, Ruth Nicole
 + Pfeifer, Nicholas Theodore
     - Learn about data science techniques in python
